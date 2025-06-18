@@ -17,6 +17,6 @@ def ordenamiento_insercion(lista_numeros):
     return lista_numeros
 
 
-lista_numeros = [200, 1, 1001, 34, 5, 1, 4]
+lista_numeros = [200, 1, 1001, 34, 10236, 5, 1, 4]
 
 print(ordenamiento_insercion(lista_numeros))
